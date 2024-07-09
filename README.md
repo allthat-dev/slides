@@ -1,9 +1,9 @@
 slides
 ======
 
-Yet another slideshare
+Discover & Share Presentations.
 
-https://allthat.dev/slides/
+https://slides.allthat.dev/
 
 ---
 May the **SOURCE** be with you...
